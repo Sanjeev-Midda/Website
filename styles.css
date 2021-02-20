@@ -1,0 +1,36 @@
+.list {
+    color: brown;
+    font-size: 150%;
+    width: 50%;
+    
+}
+
+.list li {
+    margin:50px;
+
+}
+
+h1 {
+    border-radius: 15px;
+    text-align: center;
+    padding: 150px;
+    margin: 50px;
+    border: 1px solid blue;
+
+}
+
+.mountain {
+    float: right;
+    margin-right: 25px;
+    margin-left: 25px;
+    }
+
+    .together {
+        display: flex;
+        margin: 150px;
+    }
+
+    .group {
+        margin: 30px;
+    
+    }
